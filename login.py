@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 10 00:31:22 2019
-
-@author: Acer PC
-"""
-
 from tkinter import *
 import os
 import ml
